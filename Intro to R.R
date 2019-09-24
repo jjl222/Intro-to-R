@@ -1,5 +1,5 @@
 # R script to accompany Intro to R
-# Josh Luchini
+# Josh Luchin
 ######################################################
 
 # You will see that you can put non-executable "comment" lines
